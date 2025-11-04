@@ -8,9 +8,9 @@ Du dev, du code, des algos et des bugs...
 
 #### Development
 
-| java | spring | web |
-| ------------- | ------------- | ------------- |
-| <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/openjdk.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apachemaven.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/spring.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" /> |
+| java | spring | web | python |
+| ------------- | ------------- | ------------- | ------------- |
+| <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/openjdk.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/apachemaven.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/spring.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pycharm.svg" /> |
 
 
 #### Databases
